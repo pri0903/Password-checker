@@ -1,0 +1,30 @@
+body{
+    background-color: mediumseagreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+    justify-content: space-between;
+}
+
+#strengthPill{
+    height: 20px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#inputBox{
+    width: 200px;
+    justify-items: center;
+}
+
+#strengthContainer{
+    height: 20px;
+    width: 150px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+
+}
